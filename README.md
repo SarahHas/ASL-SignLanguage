@@ -1,4 +1,4 @@
-# ASL-SignLanguage
+# HandHandRevolution
 
 ## Inspiration
 American Sign Language (ASL) is a language that is prevalent globally. Today, there are more than 70 Million Deaf individuals around the world and _**more than 70% of families do not sign with their deaf children**_.
